@@ -7,7 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Deployment-Streamlit-FF4B4B.svg)
 
 ## 📌 Overview
-This repository contains the complete collection of 5 Enterprise-Grade Artificial Intelligence and Machine Learning projects developed during my 2-week intensive internship at **Elevate Labs**. 
+This repository contains the complete collection of 5 Enterprise-Grade Artificial Intelligence and Machine Learning projects developed during my 4-month intensive internship at **Elevate Labs**. 
 
 Each project focuses on solving real-world industry problems using advanced concepts in Deep Learning, Natural Language Processing (NLP), and Time-Series Forecasting, fully deployed as interactive web applications.
 
